@@ -12,3 +12,7 @@
 - [x] BrakingNews
 - [x] TechNews
 - [x] HorizontalList
+- [x] EntertainmentNews
+- [x] FlatCard
+- [x] PoliticalNews
+- [x] VerticalList
