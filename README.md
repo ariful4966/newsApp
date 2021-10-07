@@ -8,3 +8,7 @@
 - [x] BlockCard
 - [x] Title,
 - [x] Subtitle
+- [x] SmallCard
+- [x] BrakingNews
+- [x] TechNews
+- [x] HorizontalList
